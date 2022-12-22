@@ -1,0 +1,43 @@
+
+.nav{
+
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    font-family: Roboto;
+}
+.bk-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn{
+    color:black;
+    text-decoration: none;
+    padding: 1rem;
+}
+.lista{
+    display: flex;
+    width: 65%;
+}
+.elemento{
+    list-style: none;
+    
+
+}
+.btn:hover{
+    background-color:rgb(224, 224, 224);
+    
+}
+
+.tabela{
+    justify-content: end;
+    padding: 0%;
+    margin:0px;
+    display: flex;
+    width: 100%;
+    gap: 1rem;
+    
+    
+}
